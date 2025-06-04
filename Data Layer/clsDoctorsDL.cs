@@ -102,7 +102,7 @@ namespace Data_Layer
             try
             {
                 conn.Open();
-                object result = cmd.ExecuteNonQuery();
+                object result = cmd.ExecuteScalar();
 
                 if (result != null && int.TryParse(result.ToString(), out int total))
                 {

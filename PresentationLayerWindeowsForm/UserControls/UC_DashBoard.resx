@@ -145,11 +145,12 @@
   </data>
   <data name="guna2PictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
-        iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAOFJREFUSEvl
-        lCEOAkEMRSuRSCRHQCKRSG4AEscVuAWSY3AMJBKJRCIhP2mT5tPu7LBjgJf8ZLb97czO7I7IP3ETkacK
-        4xEbhmCNWU0muWqzs4tdNIbcYGy1TBavJmuUxauJtgjjZlsE+HCbrd5jbwLhM/0eDiLyCLYHMeQ++hcW
-        QcOS5twkY0OFWOWYTcEE0JZNEWZecsKxU89dn1eurkgfo3kmQaxIZFyLyF511DwO2RPVhXgjDs6eWdOO
-        uk680cYnWn3UKIu/EU3AORwqw94Ub7R7v0ZF2Gg3Zx/NXN2P8AKisJBPkgMu6QAAAABJRU5ErkJggg==
+        iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAQpJREFUSEvl
+        lDEOwjAMRRkZGRk5AiMjIyM3gJGNK3ALRo7BMToyWrUtMTJ2BLlqpPTHqdqqA4InWWrs7580aTOb/Q3M
+        /BSRt4U9E9EcNaMJxhiTTKKq1BgWISciD8tZra0eQVht3/xgcka5/GCY2duiYrItMvBwJ1t9TPQm9WeK
+        9e9FVa8iUuH2WM5qo/4FEdk6hp1BRBv0cWHmY9zYrHKBOpzAgplPqEuIGnZYC4jIudG8bMzM+9CH2oQ+
+        wqAhoiXm2koHT6iqh7IsLxaqems0Vazx+lxioR1cGGMQ0SrX10ksjAzvsPrEKJdP8CbAmh1qq8nRZoEJ
+        6nt/SKBfAgrDzdkniGjddvsFPkyuRDNWl4ZfAAAAAElFTkSuQmCC
 </value>
   </data>
   <metadata name="label1.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
@@ -176,11 +177,10 @@
   </data>
   <data name="guna2PictureBox2.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
-        iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAOFJREFUSEvl
-        lCEOAkEMRSuRSCRHQCKRSG4AEscVuAWSY3AMJBKJRCIhP2mT5tPu7LBjgJf8ZLb97czO7I7IP3ETkacK
-        4xEbhmCNWU0muWqzs4tdNIbcYGy1TBavJmuUxauJtgjjZlsE+HCbrd5jbwLhM/0eDiLyCLYHMeQ++hcW
-        QcOS5twkY0OFWOWYTcEE0JZNEWZecsKxU89dn1eurkgfo3kmQaxIZFyLyF511DwO2RPVhXgjDs6eWdOO
-        uk680cYnWn3UKIu/EU3AORwqw94Ub7R7v0ZF2Gg3Zx/NXN2P8AKisJBPkgMu6QAAAABJRU5ErkJggg==
+        iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAIVJREFUSEvd
+        1TEOgCAQRFGOY8n9L2Y5Jga2GGI+LBW+bs3fNbGxlN9S48/dbDeYXZztXpJqX9hQ/W7wMsvvBgwA7mMA
+        cL8Hu/xu8DDL7wYMAO5jAHDfgzbei/PyC9LzAAOA+xgA3Pegjf6NaV5+QXoeYABwHwOA+z3Y5XeDpMvj
+        hO8fzpEeGHjpu5BhIZEAAAAASUVORK5CYII=
 </value>
   </data>
   <metadata name="label4.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
@@ -189,7 +189,7 @@
   <metadata name="guna2GradientPanel3.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
-  <metadata name="lbPendingPayemnts.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <metadata name="lbTotaDoctors.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
   <metadata name="dataGridView1.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
@@ -210,11 +210,11 @@
   </data>
   <data name="guna2PictureBox3.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
-        iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAOFJREFUSEvl
-        lCEOAkEMRSuRSCRHQCKRSG4AEscVuAWSY3AMJBKJRCIhP2mT5tPu7LBjgJf8ZLb97czO7I7IP3ETkacK
-        4xEbhmCNWU0muWqzs4tdNIbcYGy1TBavJmuUxauJtgjjZlsE+HCbrd5jbwLhM/0eDiLyCLYHMeQ++hcW
-        QcOS5twkY0OFWOWYTcEE0JZNEWZecsKxU89dn1eurkgfo3kmQaxIZFyLyF511DwO2RPVhXgjDs6eWdOO
-        uk680cYnWn3UKIu/EU3AORwqw94Ub7R7v0ZF2Gg3Zx/NXN2P8AKisJBPkgMu6QAAAABJRU5ErkJggg==
+        iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAKlJREFUSEvt
+        0rENwkAMheGUlJSMk5IxKNmGERgpJWXKjED5I4RPOO9yku+iCCHlK+1nx4nSdbu/AYx8jdpfxS2e0VwT
+        YLJ9g6sNVlv/JqVrS/VqpUWlejX3iR6ulj7RNE83AA7pWqXZZvaQ7X7TzdjlN3e593z3dCYE6HVbQK97
+        FgEXGbwDx4XcyXreVXMZF45d9Jk5pyHtZcJBEZ5LwVa6L6MDtXTf7vdeE2zOB8LIY60AAAAASUVORK5C
+        YII=
 </value>
   </data>
   <metadata name="label6.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">

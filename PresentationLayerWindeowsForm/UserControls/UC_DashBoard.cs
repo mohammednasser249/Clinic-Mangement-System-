@@ -55,7 +55,7 @@ namespace PresentationLayerWindeowsForm.UserControls
             _GetUpcomingAppointemens();
             lbTotalPaitnets.Text = clsDashBoardBL.GetTotalPaitents().ToString();
             lbTodaysAppointments.Text=clsDashBoardBL.GetTodaysAppointementsBL().ToString();
-            lbPendingPayemnts.Text = clsDashBoardBL.GetPendingPaymentsBL().ToString();  
+            lbTotaDoctors.Text = clsDoctrosBL.GetTotalDoctorsBL().ToString(); 
         }
 
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
@@ -79,6 +79,16 @@ namespace PresentationLayerWindeowsForm.UserControls
         }
 
         private void guna2GradientPanel3_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void label6_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lbPendingPayemnts_Click(object sender, EventArgs e)
         {
 
         }

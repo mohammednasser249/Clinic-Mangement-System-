@@ -33,13 +33,16 @@
             this.panel1 = new System.Windows.Forms.Panel();
             this.guna2GradientPanel1 = new Guna.UI2.WinForms.Guna2GradientPanel();
             this.lbTotalPaitnets = new System.Windows.Forms.Label();
+            this.guna2PictureBox1 = new Guna.UI2.WinForms.Guna2PictureBox();
             this.label1 = new System.Windows.Forms.Label();
             this.guna2GradientPanel2 = new Guna.UI2.WinForms.Guna2GradientPanel();
             this.lbTodaysAppointments = new System.Windows.Forms.Label();
+            this.guna2PictureBox2 = new Guna.UI2.WinForms.Guna2PictureBox();
             this.label4 = new System.Windows.Forms.Label();
             this.guna2GradientPanel3 = new Guna.UI2.WinForms.Guna2GradientPanel();
-            this.lbPendingPayemnts = new System.Windows.Forms.Label();
+            this.lbTotaDoctors = new System.Windows.Forms.Label();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.guna2PictureBox3 = new Guna.UI2.WinForms.Guna2PictureBox();
             this.label6 = new System.Windows.Forms.Label();
             this.dataGridView2 = new System.Windows.Forms.DataGridView();
             this.panel2 = new System.Windows.Forms.Panel();
@@ -48,21 +51,18 @@
             this.flowLayoutPanel1 = new System.Windows.Forms.FlowLayoutPanel();
             this.label2 = new System.Windows.Forms.Label();
             this.flowLayoutPanel2 = new System.Windows.Forms.FlowLayoutPanel();
-            this.guna2PictureBox3 = new Guna.UI2.WinForms.Guna2PictureBox();
-            this.guna2PictureBox2 = new Guna.UI2.WinForms.Guna2PictureBox();
-            this.guna2PictureBox1 = new Guna.UI2.WinForms.Guna2PictureBox();
             this.panel1.SuspendLayout();
             this.guna2GradientPanel1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox1)).BeginInit();
             this.guna2GradientPanel2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox2)).BeginInit();
             this.guna2GradientPanel3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).BeginInit();
             this.panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // DashBoard
@@ -114,6 +114,20 @@
             this.lbTotalPaitnets.Text = "-";
             this.lbTotalPaitnets.Click += new System.EventHandler(this.lbTotalPaitnets_Click);
             // 
+            // guna2PictureBox1
+            // 
+            this.guna2PictureBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(104)))), ((int)(((byte)(42)))), ((int)(((byte)(201)))));
+            this.guna2PictureBox1.ErrorImage = ((System.Drawing.Image)(resources.GetObject("guna2PictureBox1.ErrorImage")));
+            this.guna2PictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("guna2PictureBox1.Image")));
+            this.guna2PictureBox1.ImageRotate = 0F;
+            this.guna2PictureBox1.Location = new System.Drawing.Point(25, 39);
+            this.guna2PictureBox1.Name = "guna2PictureBox1";
+            this.guna2PictureBox1.Size = new System.Drawing.Size(40, 45);
+            this.guna2PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.guna2PictureBox1.TabIndex = 2;
+            this.guna2PictureBox1.TabStop = false;
+            this.guna2PictureBox1.UseWaitCursor = true;
+            // 
             // label1
             // 
             this.label1.AutoSize = true;
@@ -153,6 +167,20 @@
             this.lbTodaysAppointments.Text = "-";
             this.lbTodaysAppointments.Click += new System.EventHandler(this.lbTodaysAppointments_Click);
             // 
+            // guna2PictureBox2
+            // 
+            this.guna2PictureBox2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(17)))), ((int)(((byte)(160)))), ((int)(((byte)(236)))));
+            this.guna2PictureBox2.ErrorImage = ((System.Drawing.Image)(resources.GetObject("guna2PictureBox2.ErrorImage")));
+            this.guna2PictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("guna2PictureBox2.Image")));
+            this.guna2PictureBox2.ImageRotate = 0F;
+            this.guna2PictureBox2.Location = new System.Drawing.Point(25, 39);
+            this.guna2PictureBox2.Name = "guna2PictureBox2";
+            this.guna2PictureBox2.Size = new System.Drawing.Size(40, 45);
+            this.guna2PictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.guna2PictureBox2.TabIndex = 2;
+            this.guna2PictureBox2.TabStop = false;
+            this.guna2PictureBox2.UseWaitCursor = true;
+            // 
             // label4
             // 
             this.label4.AutoSize = true;
@@ -169,7 +197,7 @@
             // 
             this.guna2GradientPanel3.BackColor = System.Drawing.Color.White;
             this.guna2GradientPanel3.BorderRadius = 20;
-            this.guna2GradientPanel3.Controls.Add(this.lbPendingPayemnts);
+            this.guna2GradientPanel3.Controls.Add(this.lbTotaDoctors);
             this.guna2GradientPanel3.Controls.Add(this.dataGridView1);
             this.guna2GradientPanel3.Controls.Add(this.guna2PictureBox3);
             this.guna2GradientPanel3.Controls.Add(this.label6);
@@ -181,17 +209,18 @@
             this.guna2GradientPanel3.TabIndex = 5;
             this.guna2GradientPanel3.Paint += new System.Windows.Forms.PaintEventHandler(this.guna2GradientPanel3_Paint);
             // 
-            // lbPendingPayemnts
+            // lbTotaDoctors
             // 
-            this.lbPendingPayemnts.AutoSize = true;
-            this.lbPendingPayemnts.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(32)))), ((int)(((byte)(172)))), ((int)(((byte)(83)))));
-            this.lbPendingPayemnts.Font = new System.Drawing.Font("Century Gothic", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbPendingPayemnts.ForeColor = System.Drawing.Color.White;
-            this.lbPendingPayemnts.Location = new System.Drawing.Point(71, 20);
-            this.lbPendingPayemnts.Name = "lbPendingPayemnts";
-            this.lbPendingPayemnts.Size = new System.Drawing.Size(31, 39);
-            this.lbPendingPayemnts.TabIndex = 3;
-            this.lbPendingPayemnts.Text = "-";
+            this.lbTotaDoctors.AutoSize = true;
+            this.lbTotaDoctors.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(32)))), ((int)(((byte)(172)))), ((int)(((byte)(83)))));
+            this.lbTotaDoctors.Font = new System.Drawing.Font("Century Gothic", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbTotaDoctors.ForeColor = System.Drawing.Color.White;
+            this.lbTotaDoctors.Location = new System.Drawing.Point(71, 20);
+            this.lbTotaDoctors.Name = "lbTotaDoctors";
+            this.lbTotaDoctors.Size = new System.Drawing.Size(31, 39);
+            this.lbTotaDoctors.TabIndex = 3;
+            this.lbTotaDoctors.Text = "-";
+            this.lbTotaDoctors.Click += new System.EventHandler(this.lbPendingPayemnts_Click);
             // 
             // dataGridView1
             // 
@@ -204,6 +233,20 @@
             this.dataGridView1.TabIndex = 6;
             this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
+            // guna2PictureBox3
+            // 
+            this.guna2PictureBox3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(32)))), ((int)(((byte)(172)))), ((int)(((byte)(83)))));
+            this.guna2PictureBox3.ErrorImage = ((System.Drawing.Image)(resources.GetObject("guna2PictureBox3.ErrorImage")));
+            this.guna2PictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("guna2PictureBox3.Image")));
+            this.guna2PictureBox3.ImageRotate = 0F;
+            this.guna2PictureBox3.Location = new System.Drawing.Point(25, 39);
+            this.guna2PictureBox3.Name = "guna2PictureBox3";
+            this.guna2PictureBox3.Size = new System.Drawing.Size(40, 45);
+            this.guna2PictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.guna2PictureBox3.TabIndex = 2;
+            this.guna2PictureBox3.TabStop = false;
+            this.guna2PictureBox3.UseWaitCursor = true;
+            // 
             // label6
             // 
             this.label6.AutoSize = true;
@@ -212,9 +255,10 @@
             this.label6.ForeColor = System.Drawing.Color.White;
             this.label6.Location = new System.Drawing.Point(85, 72);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(191, 23);
+            this.label6.Size = new System.Drawing.Size(138, 23);
             this.label6.TabIndex = 0;
-            this.label6.Text = "Pending Payments";
+            this.label6.Text = "Total Doctors";
+            this.label6.Click += new System.EventHandler(this.label6_Click);
             // 
             // dataGridView2
             // 
@@ -290,48 +334,6 @@
             this.flowLayoutPanel2.Size = new System.Drawing.Size(18, 16);
             this.flowLayoutPanel2.TabIndex = 10;
             // 
-            // guna2PictureBox3
-            // 
-            this.guna2PictureBox3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(32)))), ((int)(((byte)(172)))), ((int)(((byte)(83)))));
-            this.guna2PictureBox3.ErrorImage = ((System.Drawing.Image)(resources.GetObject("guna2PictureBox3.ErrorImage")));
-            this.guna2PictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("guna2PictureBox3.Image")));
-            this.guna2PictureBox3.ImageRotate = 0F;
-            this.guna2PictureBox3.Location = new System.Drawing.Point(25, 39);
-            this.guna2PictureBox3.Name = "guna2PictureBox3";
-            this.guna2PictureBox3.Size = new System.Drawing.Size(40, 45);
-            this.guna2PictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.guna2PictureBox3.TabIndex = 2;
-            this.guna2PictureBox3.TabStop = false;
-            this.guna2PictureBox3.UseWaitCursor = true;
-            // 
-            // guna2PictureBox2
-            // 
-            this.guna2PictureBox2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(17)))), ((int)(((byte)(160)))), ((int)(((byte)(236)))));
-            this.guna2PictureBox2.ErrorImage = ((System.Drawing.Image)(resources.GetObject("guna2PictureBox2.ErrorImage")));
-            this.guna2PictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("guna2PictureBox2.Image")));
-            this.guna2PictureBox2.ImageRotate = 0F;
-            this.guna2PictureBox2.Location = new System.Drawing.Point(25, 39);
-            this.guna2PictureBox2.Name = "guna2PictureBox2";
-            this.guna2PictureBox2.Size = new System.Drawing.Size(40, 45);
-            this.guna2PictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.guna2PictureBox2.TabIndex = 2;
-            this.guna2PictureBox2.TabStop = false;
-            this.guna2PictureBox2.UseWaitCursor = true;
-            // 
-            // guna2PictureBox1
-            // 
-            this.guna2PictureBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(104)))), ((int)(((byte)(42)))), ((int)(((byte)(201)))));
-            this.guna2PictureBox1.ErrorImage = ((System.Drawing.Image)(resources.GetObject("guna2PictureBox1.ErrorImage")));
-            this.guna2PictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("guna2PictureBox1.Image")));
-            this.guna2PictureBox1.ImageRotate = 0F;
-            this.guna2PictureBox1.Location = new System.Drawing.Point(25, 39);
-            this.guna2PictureBox1.Name = "guna2PictureBox1";
-            this.guna2PictureBox1.Size = new System.Drawing.Size(40, 45);
-            this.guna2PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.guna2PictureBox1.TabIndex = 2;
-            this.guna2PictureBox1.TabStop = false;
-            this.guna2PictureBox1.UseWaitCursor = true;
-            // 
             // UC_DashBoard
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -352,18 +354,18 @@
             this.panel1.PerformLayout();
             this.guna2GradientPanel1.ResumeLayout(false);
             this.guna2GradientPanel1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox1)).EndInit();
             this.guna2GradientPanel2.ResumeLayout(false);
             this.guna2GradientPanel2.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox2)).EndInit();
             this.guna2GradientPanel3.ResumeLayout(false);
             this.guna2GradientPanel3.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).EndInit();
             this.panel2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView4)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -382,7 +384,7 @@
         private Guna.UI2.WinForms.Guna2PictureBox guna2PictureBox2;
         private System.Windows.Forms.Label label4;
         private Guna.UI2.WinForms.Guna2GradientPanel guna2GradientPanel3;
-        private System.Windows.Forms.Label lbPendingPayemnts;
+        private System.Windows.Forms.Label lbTotaDoctors;
         private Guna.UI2.WinForms.Guna2PictureBox guna2PictureBox3;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.DataGridView dataGridView1;
