@@ -108,6 +108,12 @@ namespace BusinessLayer
 
         }
 
+        private bool UpdateAppoitment()
+        {
+
+            return clsAppointmentsDL.UpdateAppoitmentDL(this.AppointmentID, this.AppointmentDateTime, this.AppointmentStatus, this.PaitentID, this.DoctorID);
+        }
+
 
        public static int GetTotalAppointments()
         {
@@ -120,7 +126,13 @@ namespace BusinessLayer
             switch(Mode)
             {
                 case enMode.AddNew:
-                    return AddNewAppointment();
+                    if( AddNewAppointment())
+                    {
+                        Mode = enMode.Update;
+                    }
+                    break;
+                    case enMode.Update:
+                    return UpdateAppoitment();
             }
             return false;
         }

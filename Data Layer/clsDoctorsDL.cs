@@ -147,7 +147,7 @@ namespace Data_Layer
 
                     Specilization = (string)reader["Specilization"];
                     Name = (string)reader["Name"];
-                    ID= (int)reader["PersonID"];
+                   // ID= (int)reader["PersonID"];
                     DOB = (DateTime)reader["DateOfBirth"];
                     PhoneNumber = (string)reader["PhoneNumber"];
                     Email = (string)reader["Email"];

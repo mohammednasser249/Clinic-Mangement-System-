@@ -34,7 +34,7 @@ namespace Data_Layer
 
                 if (reader.Read())
                 {
-                    AppointmentDate = (DateTime)reader["AppointmentDateTime"];
+                    AppointmentDate = (DateTime)reader["AppointementDateTime"];
                     AppointemtnStatus = (string)reader["AppointmentStatus"];
                     PaitentID = (int)reader["PaitentID"];
                     DoctorID = (int)reader["DoctorID"];
@@ -65,7 +65,8 @@ namespace Data_Layer
                  PP.Name AS PatientName,
                  PD.Name AS DoctorName,
                  A.AppointementDateTime,
-                 A.AppointmentStatus
+                 A.AppointmentStatus,
+                 A.AppointementID
                  FROM 
                  Appointments A
                  JOIN Patients Pa ON A.PaitentID = Pa.PaitentID
@@ -114,7 +115,8 @@ namespace Data_Layer
                  PP.Name AS PatientName,
                  PD.Name AS DoctorName,
                  A.AppointementDateTime,
-                 A.AppointmentStatus
+                 A.AppointmentStatus,
+                 A.AppointementID
                  FROM 
                  Appointments A
                  JOIN Patients Pa ON A.PaitentID = Pa.PaitentID
@@ -164,7 +166,8 @@ namespace Data_Layer
                  PP.Name AS PatientName,
                  PD.Name AS DoctorName,
                  A.AppointementDateTime,
-                 A.AppointmentStatus
+                 A.AppointmentStatus,
+                 A.AppointementID
                  FROM 
                  Appointments A
                  JOIN Patients Pa ON A.PaitentID = Pa.PaitentID
@@ -255,6 +258,49 @@ namespace Data_Layer
 
         }
 
+
+
+        public static bool UpdateAppoitmentDL(int AppID,DateTime AppointmentDateTime, string AppointmentStatus, int PatientID, int DoctorID)
+        {
+                SqlConnection con = new SqlConnection(clsDataBaseSetting.connectionString);
+
+            string qurey = @"update Appointments
+                        set AppointementDateTime =@AppointmentDateTime,
+                            AppointmentStatus =@AppointmentStatus,
+                            PaitentID = @PatientID,
+                            DoctorID=@DoctorID
+                            where AppointementID=@AppID;";
+
+            SqlCommand cmd = new SqlCommand(qurey, con);
+
+            cmd.Parameters.AddWithValue("@AppointmentDateTime", AppointmentDateTime);
+            cmd.Parameters.AddWithValue("@AppointmentStatus", AppointmentStatus);    
+            cmd.Parameters.AddWithValue("@PatientID", PatientID);                    
+            cmd.Parameters.AddWithValue("@DoctorID", DoctorID);                      
+            cmd.Parameters.AddWithValue("@AppID", AppID);
+
+            bool isupdated = false;
+
+            try
+            {
+                con.Open();
+                int affectedrows = cmd.ExecuteNonQuery();
+                if (affectedrows > 0)
+                {
+                    isupdated = true;
+                }
+
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            finally
+            {
+                con.Close();
+            }
+            return isupdated;
+        }
 
         public static int GetTotalAppointments()
         {

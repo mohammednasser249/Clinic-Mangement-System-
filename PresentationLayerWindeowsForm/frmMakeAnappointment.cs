@@ -24,11 +24,14 @@ namespace PresentationLayerWindeowsForm
 
         enMode Mode;
 
+        int _AppointmentID;
+
         public frmMakeAnappointment(int ID)
         {
             InitializeComponent();
 
-            if(ID==-1)
+            _AppointmentID = ID;
+            if (_AppointmentID == -1)
                 Mode = enMode.Addnew;
             else
                 Mode = enMode.Update;
@@ -68,7 +71,13 @@ namespace PresentationLayerWindeowsForm
             }
 
             // For update implement it 
-            _Appointemnt = clsAppointments.Find();
+            _Appointemnt = clsAppointments.Find(_AppointmentID);
+            lbPaitentID.Text = _Appointemnt.AppointmentID.ToString();
+
+            txtPaitentName.Text = clsPaitentsBL.FindPaitentByID(_Appointemnt.PaitentID).Name;
+            txtDoctorsName.Text = clsDoctrosBL.Find(_Appointemnt.DoctorID).Name;
+            DPDateOfBirth.Text=_Appointemnt.AppointmentDateTime.ToString(); 
+            guna2ComboBox1.SelectedItem = _Appointemnt.AppointmentStatus.ToString();
 
 
         }

@@ -146,5 +146,12 @@ namespace PresentationLayerWindeowsForm.UserControls
         {
 
         }
+
+        private void editToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form frm = new frmMakeAnappointment((int)dataGridView4.CurrentRow.Cells[4].Value);
+            frm.ShowDialog();
+            _RefreshAllAppointments();
+        }
     }
 }
