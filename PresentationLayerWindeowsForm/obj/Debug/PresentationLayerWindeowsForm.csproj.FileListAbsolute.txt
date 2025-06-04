@@ -1,0 +1,26 @@
+C:\Users\Asus\Desktop\1-Clinic Desktop Project\PresentationLayerWindeowsForm\bin\Debug\PresentationLayerWindeowsForm.exe.config
+C:\Users\Asus\Desktop\1-Clinic Desktop Project\PresentationLayerWindeowsForm\bin\Debug\PresentationLayerWindeowsForm.exe
+C:\Users\Asus\Desktop\1-Clinic Desktop Project\PresentationLayerWindeowsForm\bin\Debug\PresentationLayerWindeowsForm.pdb
+C:\Users\Asus\Desktop\1-Clinic Desktop Project\PresentationLayerWindeowsForm\obj\Debug\PresentationLayerWindeowsForm.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\1-Clinic Desktop Project\PresentationLayerWindeowsForm\obj\Debug\PresentationLayerWindeowsForm.Properties.Resources.resources
+C:\Users\Asus\Desktop\1-Clinic Desktop Project\PresentationLayerWindeowsForm\obj\Debug\PresentationLayerWindeowsForm.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\1-Clinic Desktop Project\PresentationLayerWindeowsForm\obj\Debug\PresentationLayerWindeowsForm.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\1-Clinic Desktop Project\PresentationLayerWindeowsForm\obj\Debug\PresentationLayerWindeowsForm.exe
+C:\Users\Asus\Desktop\1-Clinic Desktop Project\PresentationLayerWindeowsForm\obj\Debug\PresentationLayerWindeowsForm.pdb
+C:\Users\Asus\Desktop\1-Clinic Desktop Project\PresentationLayerWindeowsForm\obj\Debug\PresentationLayerWindeowsForm.frmLogin.resources
+C:\Users\Asus\Desktop\1-Clinic Desktop Project\PresentationLayerWindeowsForm\bin\Debug\BusinessLayer.dll
+C:\Users\Asus\Desktop\1-Clinic Desktop Project\PresentationLayerWindeowsForm\bin\Debug\Data Layer.exe
+C:\Users\Asus\Desktop\1-Clinic Desktop Project\PresentationLayerWindeowsForm\bin\Debug\BusinessLayer.pdb
+C:\Users\Asus\Desktop\1-Clinic Desktop Project\PresentationLayerWindeowsForm\bin\Debug\BusinessLayer.dll.config
+C:\Users\Asus\Desktop\1-Clinic Desktop Project\PresentationLayerWindeowsForm\bin\Debug\Data Layer.pdb
+C:\Users\Asus\Desktop\1-Clinic Desktop Project\PresentationLayerWindeowsForm\bin\Debug\Data Layer.exe.config
+C:\Users\Asus\Desktop\1-Clinic Desktop Project\PresentationLayerWindeowsForm\obj\Debug\Presenta.D1AB3841.Up2Date
+C:\Users\Asus\Desktop\1-Clinic Desktop Project\PresentationLayerWindeowsForm\bin\Debug\Guna.UI2.dll
+C:\Users\Asus\Desktop\1-Clinic Desktop Project\PresentationLayerWindeowsForm\obj\Debug\PresentationLayerWindeowsForm.frmMain.resources
+C:\Users\Asus\Desktop\1-Clinic Desktop Project\PresentationLayerWindeowsForm\obj\Debug\PresentationLayerWindeowsForm.UserControls.UC_DashBoard.resources
+C:\Users\Asus\Desktop\1-Clinic Desktop Project\PresentationLayerWindeowsForm\obj\Debug\PresentationLayerWindeowsForm.UserControls.UC_Paitents.resources
+C:\Users\Asus\Desktop\1-Clinic Desktop Project\PresentationLayerWindeowsForm\obj\Debug\PresentationLayerWindeowsForm.frmAddNewPaitent.resources
+C:\Users\Asus\Desktop\1-Clinic Desktop Project\PresentationLayerWindeowsForm\obj\Debug\PresentationLayerWindeowsForm.UserControls.UC_Doctors.resources
+C:\Users\Asus\Desktop\1-Clinic Desktop Project\PresentationLayerWindeowsForm\obj\Debug\PresentationLayerWindeowsForm.frmAddNewDoctor.resources
+C:\Users\Asus\Desktop\1-Clinic Desktop Project\PresentationLayerWindeowsForm\obj\Debug\PresentationLayerWindeowsForm.UserControls.UC_Appointments.resources
+C:\Users\Asus\Desktop\1-Clinic Desktop Project\PresentationLayerWindeowsForm\obj\Debug\PresentationLayerWindeowsForm.frmMakeAnappointment.resources

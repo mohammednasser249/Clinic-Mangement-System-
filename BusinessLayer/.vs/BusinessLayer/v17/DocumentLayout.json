@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\BusinessLayer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7DB348-7095-4F23-92EB-5FD217BAEB14}|..\\ClinicApp\\Presentation Layer.csproj|c:\\users\\asus\\desktop\\1-clinic desktop project\\clinicapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E1C1A7-FBFF-4831-9847-5613AE0DE793}|..\\Data Layer\\Data Layer.csproj|c:\\users\\asus\\desktop\\1-clinic desktop project\\data layer\\clspaitentdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CBA8AFE-7F2B-448F-9239-0B0B77294DCA}|BusinessLayer.csproj|c:\\users\\asus\\desktop\\1-clinic desktop project\\businesslayer\\properties\\clspatients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CBA8AFE-7F2B-448F-9239-0B0B77294DCA}|BusinessLayer.csproj|solutionrelative:properties\\clspatients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E1C1A7-FBFF-4831-9847-5613AE0DE793}|..\\Data Layer\\Data Layer.csproj|c:\\users\\asus\\desktop\\1-clinic desktop project\\data layer\\databasesetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E1C1A7-FBFF-4831-9847-5613AE0DE793}|..\\Data Layer\\Data Layer.csproj|c:\\users\\asus\\desktop\\1-clinic desktop project\\data layer\\personsdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CBA8AFE-7F2B-448F-9239-0B0B77294DCA}|BusinessLayer.csproj|c:\\users\\asus\\desktop\\1-clinic desktop project\\businesslayer\\personsbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CBA8AFE-7F2B-448F-9239-0B0B77294DCA}|BusinessLayer.csproj|solutionrelative:personsbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CBA8AFE-7F2B-448F-9239-0B0B77294DCA}|BusinessLayer.csproj|c:\\users\\asus\\desktop\\1-clinic desktop project\\businesslayer\\clsdash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CBA8AFE-7F2B-448F-9239-0B0B77294DCA}|BusinessLayer.csproj|solutionrelative:clsdash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CBA8AFE-7F2B-448F-9239-0B0B77294DCA}|BusinessLayer.csproj|c:\\users\\asus\\desktop\\1-clinic desktop project\\businesslayer\\dashboardbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CBA8AFE-7F2B-448F-9239-0B0B77294DCA}|BusinessLayer.csproj|solutionrelative:dashboardbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E1C1A7-FBFF-4831-9847-5613AE0DE793}|..\\Data Layer\\Data Layer.csproj|c:\\users\\asus\\desktop\\1-clinic desktop project\\data layer\\clsdashboarddl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|BusinessLayer||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CBA8AFE-7F2B-448F-9239-0B0B77294DCA}|BusinessLayer.csproj|c:\\users\\asus\\desktop\\1-clinic desktop project\\businesslayer\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\ClinicApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ClinicApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\ClinicApp\\Program.cs",
+              "RelativeToolTip": "..\\ClinicApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T20:00:52.838Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsPaitentDL.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\Data Layer\\clsPaitentDL.cs",
+              "RelativeDocumentMoniker": "..\\Data Layer\\clsPaitentDL.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\Data Layer\\clsPaitentDL.cs",
+              "RelativeToolTip": "..\\Data Layer\\clsPaitentDL.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAIAwwBAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T21:02:18.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsPatients.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\BusinessLayer\\Properties\\clsPatients.cs",
+              "RelativeDocumentMoniker": "Properties\\clsPatients.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\BusinessLayer\\Properties\\clsPatients.cs",
+              "RelativeToolTip": "Properties\\clsPatients.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAIA/wCgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T20:51:56.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clsDash.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\BusinessLayer\\clsDash.cs",
+              "RelativeDocumentMoniker": "clsDash.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\BusinessLayer\\clsDash.cs",
+              "RelativeToolTip": "clsDash.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T20:41:48.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "clsDashBoardDL.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\Data Layer\\clsDashBoardDL.cs",
+              "RelativeDocumentMoniker": "..\\Data Layer\\clsDashBoardDL.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\Data Layer\\clsDashBoardDL.cs",
+              "RelativeToolTip": "..\\Data Layer\\clsDashBoardDL.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwA8AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T20:24:19.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DashBoardBL.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\BusinessLayer\\DashBoardBL.cs",
+              "RelativeDocumentMoniker": "DashBoardBL.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\BusinessLayer\\DashBoardBL.cs",
+              "RelativeToolTip": "DashBoardBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T20:22:05.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonsBL.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\BusinessLayer\\PersonsBL.cs",
+              "RelativeDocumentMoniker": "PersonsBL.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\BusinessLayer\\PersonsBL.cs",
+              "RelativeToolTip": "PersonsBL.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAwwCIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T19:49:55.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataBaseSetting.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\Data Layer\\DataBaseSetting.cs",
+              "RelativeDocumentMoniker": "..\\Data Layer\\DataBaseSetting.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\Data Layer\\DataBaseSetting.cs",
+              "RelativeToolTip": "..\\Data Layer\\DataBaseSetting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T19:49:35.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonsDL.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\Data Layer\\PersonsDL.cs",
+              "RelativeDocumentMoniker": "..\\Data Layer\\PersonsDL.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\Data Layer\\PersonsDL.cs",
+              "RelativeToolTip": "..\\Data Layer\\PersonsDL.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAtwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T19:48:28.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BusinessLayer",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\BusinessLayer\\BusinessLayer.csproj",
+              "RelativeDocumentMoniker": "BusinessLayer.csproj",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\BusinessLayer\\BusinessLayer.csproj",
+              "RelativeToolTip": "BusinessLayer.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-30T20:08:56.241Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

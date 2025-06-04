@@ -1,0 +1,11 @@
+C:\Users\Asus\Desktop\1-Clinic Desktop Project\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\1-Clinic Desktop Project\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\1-Clinic Desktop Project\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Asus\Desktop\1-Clinic Desktop Project\BusinessLayer\bin\Debug\Data Layer.exe
+C:\Users\Asus\Desktop\1-Clinic Desktop Project\BusinessLayer\bin\Debug\Data Layer.pdb
+C:\Users\Asus\Desktop\1-Clinic Desktop Project\BusinessLayer\bin\Debug\Data Layer.exe.config
+C:\Users\Asus\Desktop\1-Clinic Desktop Project\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+C:\Users\Asus\Desktop\1-Clinic Desktop Project\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Asus\Desktop\1-Clinic Desktop Project\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\Asus\Desktop\1-Clinic Desktop Project\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Asus\Desktop\1-Clinic Desktop Project\BusinessLayer\obj\Debug\BusinessLayer.dll
