@@ -333,6 +333,46 @@ namespace Data_Layer
             return C;
 
         }
+
+
+
+       public static bool DeleteDL(int ID)
+        {
+            SqlConnection conn = new SqlConnection(clsDataBaseSetting.connectionString);
+
+            string qurey = @"Delete from Appointments where AppointementID =@ID";
+
+            SqlCommand cmd = new SqlCommand(qurey, conn);
+
+            cmd.Parameters.AddWithValue("@ID", ID);
+            bool isdeleted = false;
+            try
+            {
+                conn.Open();
+                int affectedrows = cmd.ExecuteNonQuery();
+
+                if (affectedrows > 0)
+                {
+                    isdeleted = true;
+                }
+
+
+
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            finally
+            {
+                conn.Close();
+            }
+
+            return isdeleted;
+        }
+
+
+
     }
 
 

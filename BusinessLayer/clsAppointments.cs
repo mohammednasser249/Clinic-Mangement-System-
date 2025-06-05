@@ -137,6 +137,11 @@ namespace BusinessLayer
             return false;
         }
 
+        public static bool Delete(int ID)
+        {
+            return clsAppointmentsDL.DeleteDL(ID);
+        }
+
 
 
     }

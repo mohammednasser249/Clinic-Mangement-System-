@@ -153,5 +153,23 @@ namespace PresentationLayerWindeowsForm.UserControls
             frm.ShowDialog();
             _RefreshAllAppointments();
         }
+
+        private void deleteToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            if ((MessageBox.Show("Are you sure you want to delete this appointemtn ?")==DialogResult.OK))
+            {
+
+                if (clsAppointments.Delete((int)dataGridView4.CurrentRow.Cells[4].Value))
+                {
+                    MessageBox.Show("Appointment has been deleted succssfully");
+                    _RefreshAllAppointments();
+                }
+                else
+                    MessageBox.Show("Appointment failed to be deleted");
+
+            }
+
+        }
     }
 }
+
