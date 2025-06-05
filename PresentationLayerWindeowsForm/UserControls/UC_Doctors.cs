@@ -76,6 +76,33 @@ namespace PresentationLayerWindeowsForm.UserControls
 
             lbTotalDoctors.Text = "Total:" + dataGridView4.RowCount.ToString();
         }
+        private void _RefreshFemaleDoctors()
+        {
+            dataGridView4.DataSource = clsDoctrosBL.GetAllFemaleDoctorsBL();
+            // 1. Set AutoSizeColumnsMode to None so you can control widths manually
+            dataGridView4.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.None;
+
+            // 2. Calculate the width for each column to fill the DataGridView width equally
+            int totalWidth = dataGridView4.ClientSize.Width; // width of DataGridView inside borders
+            int colCount = dataGridView4.Columns.Count;
+
+            if (colCount > 0)
+            {
+                int colWidth = totalWidth / colCount;
+
+                foreach (DataGridViewColumn col in dataGridView4.Columns)
+                {
+                    col.Width = colWidth;
+                }
+            }
+
+            dataGridView4.ColumnHeadersDefaultCellStyle.BackColor = Color.FromArgb(22, 92, 153);
+            dataGridView4.ColumnHeadersDefaultCellStyle.ForeColor = Color.White;
+            dataGridView4.ColumnHeadersDefaultCellStyle.Font = new Font("Arial", 10, FontStyle.Bold);
+            dataGridView4.EnableHeadersVisualStyles = false;
+
+            lbTotalDoctors.Text = "Total:" + dataGridView4.RowCount.ToString();
+        }
 
         private void dataGridView4_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
@@ -104,7 +131,11 @@ namespace PresentationLayerWindeowsForm.UserControls
             else if (guna2ComboBox1.SelectedIndex == 1)
 
             {
-                _RefreshMaleDoctors();  
+                _RefreshMaleDoctors();
+            }
+            else
+            {
+                _RefreshFemaleDoctors();
             }
 
 
@@ -113,6 +144,13 @@ namespace PresentationLayerWindeowsForm.UserControls
         private void guna2Button1_Click(object sender, EventArgs e)
         {
             Form frm = new frmAddNewDoctor(-1);
+            frm.ShowDialog();
+            _RefreshAllDoctors();
+        }
+
+        private void editToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form frm = new frmAddNewDoctor((int)dataGridView4.CurrentRow.Cells[7].Value);
             frm.ShowDialog();
             _RefreshAllDoctors();
         }

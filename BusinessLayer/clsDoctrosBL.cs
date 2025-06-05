@@ -26,8 +26,8 @@ namespace BusinessLayer
         private clsDoctrosBL(int DocID , string Specilization, int id, string name, DateTime DOB, string gender, string phonenumber, string email, string address)
             :base( id,  name,  DOB,  gender,  phonenumber,  email,  address)
         {
-            this.DocID = 0;
-            this.Specilization = " ";
+            this.DocID = DocID;
+            this.Specilization = Specilization;
             _Mode = enMode.Update;
         }
 
@@ -53,6 +53,18 @@ namespace BusinessLayer
 
         }
 
+
+        private bool _UpdateDoctor()
+        {
+            if (clsDoctorsDL.UpdateDoctorDL(this.DocID,this.Name, this.DateOfBirth, this.Gender, this.PhoneNumber, this.Email, this.Address))
+            {
+
+                return true;
+            }
+            else
+                return false;
+        }
+
         public static DataTable GetAllDoctors()
         {
 
@@ -62,6 +74,10 @@ namespace BusinessLayer
         public static DataTable GetAllMaleDoctorsBL()
         {
             return clsDoctorsDL.GetMaleDoctorsDL();
+        }
+        public static DataTable GetAllFemaleDoctorsBL()
+        {
+            return clsDoctorsDL.GetFemaleDoctorsDL();
         }
 
 
@@ -96,7 +112,14 @@ namespace BusinessLayer
             switch(_Mode)
             {
                 case enMode.AddNew:
-                    return AddNewDoctor();
+                   if(AddNewDoctor())
+                    {
+                        _Mode = enMode.Update;
+                        return true;
+                    }
+                    break;
+                  case enMode.Update:
+                    return _UpdateDoctor();
 
 
             }

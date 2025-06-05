@@ -3,68 +3,33 @@
   "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\usercontrols\\uc_appointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|solutionrelative:usercontrols\\uc_appointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\usercontrols\\uc_doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|solutionrelative:usercontrols\\uc_doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CBA8AFE-7F2B-448F-9239-0B0B77294DCA}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\asus\\desktop\\1-clinic desktop project\\businesslayer\\clsappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09E1C1A7-FBFF-4831-9847-5613AE0DE793}|..\\Data Layer\\Data Layer.csproj|c:\\users\\asus\\desktop\\1-clinic desktop project\\data layer\\clsappointmentsdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\usercontrols\\uc_doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|solutionrelative:usercontrols\\uc_doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\usercontrols\\uc_appointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|solutionrelative:usercontrols\\uc_appointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\usercontrols\\uc_paitents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|solutionrelative:usercontrols\\uc_paitents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmaddnewdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|solutionrelative:frmaddnewdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\usercontrols\\uc_paitents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|solutionrelative:usercontrols\\uc_paitents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09E1C1A7-FBFF-4831-9847-5613AE0DE793}|..\\Data Layer\\Data Layer.csproj|c:\\users\\asus\\desktop\\1-clinic desktop project\\data layer\\clspaitentdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CBA8AFE-7F2B-448F-9239-0B0B77294DCA}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\asus\\desktop\\1-clinic desktop project\\businesslayer\\clspaitentsbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09E1C1A7-FBFF-4831-9847-5613AE0DE793}|..\\Data Layer\\Data Layer.csproj|c:\\users\\asus\\desktop\\1-clinic desktop project\\data layer\\clsdashboarddl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmaddnewdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|solutionrelative:frmaddnewdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9CBA8AFE-7F2B-448F-9239-0B0B77294DCA}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\asus\\desktop\\1-clinic desktop project\\businesslayer\\clsdoctrosbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|c:\\users\\asus\\desktop\\1-clinic desktop project\\presentationlayerwindeowsform\\usercontrols\\uc_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|solutionrelative:usercontrols\\uc_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\usercontrols\\uc_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|solutionrelative:usercontrols\\uc_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09E1C1A7-FBFF-4831-9847-5613AE0DE793}|..\\Data Layer\\Data Layer.csproj|c:\\users\\asus\\desktop\\1-clinic desktop project\\data layer\\clsdoctorsdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmmakeanappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|solutionrelative:frmmakeanappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9CBA8AFE-7F2B-448F-9239-0B0B77294DCA}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\asus\\desktop\\1-clinic desktop project\\businesslayer\\personsbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmmakeanappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|solutionrelative:frmmakeanappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{09E1C1A7-FBFF-4831-9847-5613AE0DE793}|..\\Data Layer\\Data Layer.csproj|c:\\users\\asus\\desktop\\1-clinic desktop project\\data layer\\clsdoctorsdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmaddnewpaitent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -75,20 +40,67 @@
       "RelativeMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|solutionrelative:frmaddnewpaitent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\usercontrols\\uc_doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|solutionrelative:usercontrols\\uc_doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmmakeanappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|solutionrelative:frmmakeanappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\usercontrols\\uc_doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|solutionrelative:usercontrols\\uc_doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmmakeanappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|solutionrelative:frmmakeanappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E1C1A7-FBFF-4831-9847-5613AE0DE793}|..\\Data Layer\\Data Layer.csproj|c:\\users\\asus\\desktop\\1-clinic desktop project\\data layer\\clspaitentdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CBA8AFE-7F2B-448F-9239-0B0B77294DCA}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\asus\\desktop\\1-clinic desktop project\\businesslayer\\clspaitentsbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|solutionrelative:frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|c:\\users\\asus\\desktop\\1-clinic desktop project\\presentationlayerwindeowsform\\usercontrols\\uc_appointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|solutionrelative:usercontrols\\uc_appointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CBA8AFE-7F2B-448F-9239-0B0B77294DCA}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\asus\\desktop\\1-clinic desktop project\\businesslayer\\clsappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E1C1A7-FBFF-4831-9847-5613AE0DE793}|..\\Data Layer\\Data Layer.csproj|c:\\users\\asus\\desktop\\1-clinic desktop project\\data layer\\clsappointmentsdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\usercontrols\\uc_paitents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|solutionrelative:usercontrols\\uc_paitents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\usercontrols\\uc_paitents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|solutionrelative:usercontrols\\uc_paitents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E1C1A7-FBFF-4831-9847-5613AE0DE793}|..\\Data Layer\\Data Layer.csproj|c:\\users\\asus\\desktop\\1-clinic desktop project\\data layer\\clsdashboarddl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\usercontrols\\uc_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|solutionrelative:usercontrols\\uc_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\usercontrols\\uc_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|solutionrelative:usercontrols\\uc_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmaddnewdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|solutionrelative:frmaddnewdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -102,10 +114,6 @@
       "RelativeMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmaddnewdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|solutionrelative:frmaddnewdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{09E1C1A7-FBFF-4831-9847-5613AE0DE793}|..\\Data Layer\\Data Layer.csproj|c:\\users\\asus\\desktop\\1-clinic desktop project\\data layer\\personsdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -117,19 +125,11 @@
       "RelativeMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|solutionrelative:frmaddnewpaitent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|solutionrelative:frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|PresentationLayerWindeowsForm||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmlogin.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
       "RelativeMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|solutionrelative:frmlogin.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F076E30-9E10-41EC-BEBE-7A902F69BA47}|PresentationLayerWindeowsForm.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{09E1C1A7-FBFF-4831-9847-5613AE0DE793}|..\\Data Layer\\Data Layer.csproj|c:\\users\\asus\\desktop\\1-clinic desktop project\\data layer\\logindl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -146,11 +146,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 22,
               "Title": "clsDashBoardDL.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\Data Layer\\clsDashBoardDL.cs",
               "RelativeDocumentMoniker": "..\\Data Layer\\clsDashBoardDL.cs",
@@ -159,12 +159,11 @@
               "ViewState": "AQIAAHIAAAAAAAAAAAAswIoAAABjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-31T11:15:32.076Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "DashBoardBL.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\BusinessLayer\\DashBoardBL.cs",
               "RelativeDocumentMoniker": "..\\BusinessLayer\\DashBoardBL.cs",
@@ -177,71 +176,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "frmMain.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmMain.cs",
               "RelativeDocumentMoniker": "frmMain.cs",
               "ToolTip": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmMain.cs",
               "RelativeToolTip": "frmMain.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG4AAAAAAAAA",
+              "ViewState": "AQIAAEAAAAAAAAAAAAA7wCsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-31T17:53:53.595Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UC_Appointments.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\UserControls\\UC_Appointments.cs",
-              "RelativeDocumentMoniker": "UserControls\\UC_Appointments.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\UserControls\\UC_Appointments.cs",
-              "RelativeToolTip": "UserControls\\UC_Appointments.cs",
-              "ViewState": "AQIAAHsAAAAAAAAAAAAqwIMAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T13:28:35.582Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UC_Paitents.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\UserControls\\UC_Paitents.cs",
-              "RelativeDocumentMoniker": "UserControls\\UC_Paitents.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\UserControls\\UC_Paitents.cs [Design]",
-              "RelativeToolTip": "UserControls\\UC_Paitents.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T19:37:49.829Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "clsAppointments.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\BusinessLayer\\clsAppointments.cs",
-              "RelativeDocumentMoniker": "..\\BusinessLayer\\clsAppointments.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\BusinessLayer\\clsAppointments.cs",
-              "RelativeToolTip": "..\\BusinessLayer\\clsAppointments.cs",
-              "ViewState": "AQIAADYAAAAAAAAAAAAuwEMAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T12:55:16.508Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "clsAppointmentsDL.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\Data Layer\\clsAppointmentsDL.cs",
-              "RelativeDocumentMoniker": "..\\Data Layer\\clsAppointmentsDL.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\Data Layer\\clsAppointmentsDL.cs",
-              "RelativeToolTip": "..\\Data Layer\\clsAppointmentsDL.cs",
-              "ViewState": "AQIAAGEAAAAAAAAAAAAAAGoAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T13:04:26.588Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "UC_Appointments.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\UserControls\\UC_Appointments.cs",
               "RelativeDocumentMoniker": "UserControls\\UC_Appointments.cs",
@@ -253,7 +202,246 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UC_Doctors.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\UserControls\\UC_Doctors.cs",
+              "RelativeDocumentMoniker": "UserControls\\UC_Doctors.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\UserControls\\UC_Doctors.cs [Design]",
+              "RelativeToolTip": "UserControls\\UC_Doctors.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T10:59:38.926Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UC_Doctors.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\UserControls\\UC_Doctors.cs",
+              "RelativeDocumentMoniker": "UserControls\\UC_Doctors.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\UserControls\\UC_Doctors.cs",
+              "RelativeToolTip": "UserControls\\UC_Doctors.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAjwJoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T11:02:11.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmAddNewDoctor.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmAddNewDoctor.cs",
+              "RelativeDocumentMoniker": "frmAddNewDoctor.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmAddNewDoctor.cs",
+              "RelativeToolTip": "frmAddNewDoctor.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwFwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T18:28:36.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "frmAddNewDoctor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmAddNewDoctor.cs",
+              "RelativeDocumentMoniker": "frmAddNewDoctor.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmAddNewDoctor.cs [Design]",
+              "RelativeToolTip": "frmAddNewDoctor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T18:24:07.047Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsDoctrosBL.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\BusinessLayer\\clsDoctrosBL.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\clsDoctrosBL.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\BusinessLayer\\clsDoctrosBL.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\clsDoctrosBL.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAnwB0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T10:46:04.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmAddNewPaitent.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmAddNewPaitent.cs",
+              "RelativeDocumentMoniker": "frmAddNewPaitent.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmAddNewPaitent.cs",
+              "RelativeToolTip": "frmAddNewPaitent.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAvwEgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:22:33.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonsBL.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\BusinessLayer\\PersonsBL.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\PersonsBL.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\BusinessLayer\\PersonsBL.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\PersonsBL.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAwwC8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:21:09.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clsDoctorsDL.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\Data Layer\\clsDoctorsDL.cs",
+              "RelativeDocumentMoniker": "..\\Data Layer\\clsDoctorsDL.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\Data Layer\\clsDoctorsDL.cs",
+              "RelativeToolTip": "..\\Data Layer\\clsDoctorsDL.cs",
+              "ViewState": "AQIAAMQAAAAAAAAAAADgv84AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T10:54:01.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmAddNewPaitent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmAddNewPaitent.cs",
+              "RelativeDocumentMoniker": "frmAddNewPaitent.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmAddNewPaitent.cs [Design]",
+              "RelativeToolTip": "frmAddNewPaitent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:08:15.737Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmMakeAnappointment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmMakeAnappointment.cs",
+              "RelativeDocumentMoniker": "frmMakeAnappointment.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmMakeAnappointment.cs [Design]",
+              "RelativeToolTip": "frmMakeAnappointment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T14:10:42.682Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmMakeAnappointment.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmMakeAnappointment.cs",
+              "RelativeDocumentMoniker": "frmMakeAnappointment.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmMakeAnappointment.cs",
+              "RelativeToolTip": "frmMakeAnappointment.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAjwDgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T14:16:56.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "clsPaitentsBL.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\BusinessLayer\\clsPaitentsBL.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\clsPaitentsBL.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\BusinessLayer\\clsPaitentsBL.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\clsPaitentsBL.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAQwGcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T20:19:48.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmLogin.Designer.cs",
+              "RelativeDocumentMoniker": "frmLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmLogin.Designer.cs",
+              "RelativeToolTip": "frmLogin.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T20:48:21.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T20:48:16.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "clsPaitentDL.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\Data Layer\\clsPaitentDL.cs",
+              "RelativeDocumentMoniker": "..\\Data Layer\\clsPaitentDL.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\Data Layer\\clsPaitentDL.cs",
+              "RelativeToolTip": "..\\Data Layer\\clsPaitentDL.cs",
+              "ViewState": "AQIAANQAAAAAAAAAAAAewOAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T20:06:01.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UC_Appointments.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\UserControls\\UC_Appointments.cs",
+              "RelativeDocumentMoniker": "UserControls\\UC_Appointments.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\UserControls\\UC_Appointments.cs",
+              "RelativeToolTip": "UserControls\\UC_Appointments.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAA8wIMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:28:35.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "clsAppointmentsDL.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\Data Layer\\clsAppointmentsDL.cs",
+              "RelativeDocumentMoniker": "..\\Data Layer\\clsAppointmentsDL.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\Data Layer\\clsAppointmentsDL.cs",
+              "RelativeToolTip": "..\\Data Layer\\clsAppointmentsDL.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAAAGoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:04:26.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "clsAppointments.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\BusinessLayer\\clsAppointments.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\clsAppointments.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\BusinessLayer\\clsAppointments.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\clsAppointments.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAuwEMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T12:55:16.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UC_Paitents.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\UserControls\\UC_Paitents.cs",
+              "RelativeDocumentMoniker": "UserControls\\UC_Paitents.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\UserControls\\UC_Paitents.cs [Design]",
+              "RelativeToolTip": "UserControls\\UC_Paitents.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T19:37:49.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "UC_Paitents.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\UserControls\\UC_Paitents.cs",
               "RelativeDocumentMoniker": "UserControls\\UC_Paitents.cs",
@@ -261,51 +449,11 @@
               "RelativeToolTip": "UserControls\\UC_Paitents.cs",
               "ViewState": "AQIAAJwAAAAAAAAAAAAcwK0AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T19:57:12.433Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-01T19:57:12.433Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "clsPaitentDL.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\Data Layer\\clsPaitentDL.cs",
-              "RelativeDocumentMoniker": "..\\Data Layer\\clsPaitentDL.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\Data Layer\\clsPaitentDL.cs",
-              "RelativeToolTip": "..\\Data Layer\\clsPaitentDL.cs",
-              "ViewState": "AQIAABoBAAAAAAAAAAAwwC8BAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T20:06:01.132Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "clsPaitentsBL.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\BusinessLayer\\clsPaitentsBL.cs",
-              "RelativeDocumentMoniker": "..\\BusinessLayer\\clsPaitentsBL.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\BusinessLayer\\clsPaitentsBL.cs",
-              "RelativeToolTip": "..\\BusinessLayer\\clsPaitentsBL.cs",
-              "ViewState": "AQIAAE4AAAAAAAAAAAAYwDsAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T20:19:48.637Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "clsDoctrosBL.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\BusinessLayer\\clsDoctrosBL.cs",
-              "RelativeDocumentMoniker": "..\\BusinessLayer\\clsDoctrosBL.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\BusinessLayer\\clsDoctrosBL.cs",
-              "RelativeToolTip": "..\\BusinessLayer\\clsDoctrosBL.cs",
-              "ViewState": "AQIAAEYAAAAAAAAAAAAAAEYAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T10:46:04.19Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 23,
               "Title": "UC_DashBoard.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\UserControls\\UC_DashBoard.cs",
               "RelativeDocumentMoniker": "UserControls\\UC_DashBoard.cs",
@@ -313,128 +461,34 @@
               "RelativeToolTip": "UserControls\\UC_DashBoard.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T19:44:12.006Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-01T19:44:12.006Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 25,
               "Title": "frmMain.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmMain.cs",
               "RelativeDocumentMoniker": "frmMain.cs",
               "ToolTip": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmMain.cs [Design]",
               "RelativeToolTip": "frmMain.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T17:49:19.547Z"
+              "WhenOpened": "2025-06-01T17:49:19.547Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "clsDoctorsDL.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\Data Layer\\clsDoctorsDL.cs",
-              "RelativeDocumentMoniker": "..\\Data Layer\\clsDoctorsDL.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\Data Layer\\clsDoctorsDL.cs",
-              "RelativeToolTip": "..\\Data Layer\\clsDoctorsDL.cs",
-              "ViewState": "AQIAAG4AAAAAAAAAAADwv3sAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T10:54:01.353Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 24,
               "Title": "UC_DashBoard.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\UserControls\\UC_DashBoard.cs",
               "RelativeDocumentMoniker": "UserControls\\UC_DashBoard.cs",
               "ToolTip": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\UserControls\\UC_DashBoard.cs [Design]",
               "RelativeToolTip": "UserControls\\UC_DashBoard.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T19:42:29.006Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-01T19:42:29.006Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "frmMakeAnappointment.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmMakeAnappointment.cs",
-              "RelativeDocumentMoniker": "frmMakeAnappointment.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmMakeAnappointment.cs",
-              "RelativeToolTip": "frmMakeAnappointment.cs",
-              "ViewState": "AQIAAEkAAAAAAAAAAIAwwFUAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T14:16:56.623Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "PersonsBL.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\BusinessLayer\\PersonsBL.cs",
-              "RelativeDocumentMoniker": "..\\BusinessLayer\\PersonsBL.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\BusinessLayer\\PersonsBL.cs",
-              "RelativeToolTip": "..\\BusinessLayer\\PersonsBL.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAD4vy8AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T10:21:09.627Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "frmMakeAnappointment.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmMakeAnappointment.cs",
-              "RelativeDocumentMoniker": "frmMakeAnappointment.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmMakeAnappointment.cs [Design]",
-              "RelativeToolTip": "frmMakeAnappointment.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T14:10:42.682Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "frmAddNewPaitent.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmAddNewPaitent.cs",
-              "RelativeDocumentMoniker": "frmAddNewPaitent.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmAddNewPaitent.cs",
-              "RelativeToolTip": "frmAddNewPaitent.cs",
-              "ViewState": "AQIAAEoAAAAAAAAAAAAUwFEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T09:22:33.305Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "frmAddNewPaitent.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmAddNewPaitent.cs",
-              "RelativeDocumentMoniker": "frmAddNewPaitent.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmAddNewPaitent.cs [Design]",
-              "RelativeToolTip": "frmAddNewPaitent.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T09:08:15.737Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "UC_Doctors.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\UserControls\\UC_Doctors.cs",
-              "RelativeDocumentMoniker": "UserControls\\UC_Doctors.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\UserControls\\UC_Doctors.cs",
-              "RelativeToolTip": "UserControls\\UC_Doctors.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T11:02:11.177Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "UC_Doctors.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\UserControls\\UC_Doctors.cs",
-              "RelativeDocumentMoniker": "UserControls\\UC_Doctors.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\UserControls\\UC_Doctors.cs [Design]",
-              "RelativeToolTip": "UserControls\\UC_Doctors.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T10:59:38.926Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\App.config",
               "RelativeDocumentMoniker": "App.config",
@@ -447,18 +501,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "frmAddNewDoctor.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmAddNewDoctor.cs",
-              "RelativeDocumentMoniker": "frmAddNewDoctor.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmAddNewDoctor.cs [Design]",
-              "RelativeToolTip": "frmAddNewDoctor.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T18:24:07.047Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "frmLogin.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmLogin.cs",
               "RelativeDocumentMoniker": "frmLogin.cs",
@@ -469,7 +512,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "frmLogin.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmLogin.cs",
               "RelativeDocumentMoniker": "frmLogin.cs",
@@ -481,19 +524,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "frmAddNewDoctor.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmAddNewDoctor.cs",
-              "RelativeDocumentMoniker": "frmAddNewDoctor.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmAddNewDoctor.cs",
-              "RelativeToolTip": "frmAddNewDoctor.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAA3wFYAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T18:28:36.02Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "PersonsDL.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\Data Layer\\PersonsDL.cs",
               "RelativeDocumentMoniker": "..\\Data Layer\\PersonsDL.cs",
@@ -505,7 +536,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "packages.config",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\packages.config",
               "RelativeDocumentMoniker": "packages.config",
@@ -517,7 +548,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "frmAddNewPaitent.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmAddNewPaitent.Designer.cs",
               "RelativeDocumentMoniker": "frmAddNewPaitent.Designer.cs",
@@ -525,23 +556,12 @@
               "RelativeToolTip": "frmAddNewPaitent.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T09:59:19.724Z"
+              "WhenOpened": "2025-06-02T09:59:19.724Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "frmLogin.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmLogin.Designer.cs",
-              "RelativeDocumentMoniker": "frmLogin.Designer.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmLogin.Designer.cs",
-              "RelativeToolTip": "frmLogin.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T20:48:21.82Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "frmLogin.resx",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\frmLogin.resx",
               "RelativeDocumentMoniker": "frmLogin.resx",
@@ -552,7 +572,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "PresentationLayerWindeowsForm",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\PresentationLayerWindeowsForm.csproj",
               "RelativeDocumentMoniker": "PresentationLayerWindeowsForm.csproj",
@@ -560,18 +580,6 @@
               "RelativeToolTip": "PresentationLayerWindeowsForm.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-06-01T20:48:29.889Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\1-Clinic Desktop Project\\PresentationLayerWindeowsForm\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T20:48:16.514Z"
             },
             {
               "$type": "Document",
@@ -595,7 +603,8 @@
               "RelativeToolTip": "frmMain.Designer.cs",
               "ViewState": "AQIAAHQAAAAAAAAAAAASwHQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T17:48:48.111Z"
+              "WhenOpened": "2025-06-01T17:48:48.111Z",
+              "EditorCaption": ""
             }
           ]
         }

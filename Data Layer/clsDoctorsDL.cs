@@ -87,6 +87,37 @@ namespace Data_Layer
 
         }
 
+        public static DataTable GetFemaleDoctorsDL()
+        {
+            DataTable dt = new DataTable();
+
+            using (SqlConnection conn = new SqlConnection(clsDataBaseSetting.connectionString))
+            {
+                string query = @"SELECT P.Name, D.Specilization, P.PhoneNumber, P.Gender, 
+                         P.Address, P.DateOfBirth, P.Email, D.DoctorID
+                         FROM Persons P, Doctors D
+                         WHERE P.PersonID = D.PersonID AND P.Gender = 'F'";
+
+                using (SqlCommand cmd = new SqlCommand(query, conn))
+                {
+                    try
+                    {
+                        conn.Open();
+
+                        using (SqlDataReader reader = cmd.ExecuteReader())
+                        {
+                            dt.Load(reader); // This loads all rows correctly
+                        }
+                    }
+                    catch (Exception ex)
+                    {
+                        Console.WriteLine(ex.Message);
+                    }
+                }
+            }
+
+            return dt;
+        }
 
         public static int GetTotalDoctorsDL()
         {
@@ -252,7 +283,68 @@ namespace Data_Layer
 
             return PID;
         }
-    
+
+
+
+        public static bool UpdateDoctorDL(int DoctorID, string Name, DateTime DOB, string Gender, string PhoneNumber, string Email, string Address)
+        {
+            using (SqlConnection conn = new SqlConnection(clsDataBaseSetting.connectionString))
+            {
+                conn.Open();
+                SqlTransaction transaction = conn.BeginTransaction();
+
+                try
+                {
+                    // Step 1: Get the PersonID from the Doctors table using DoctorID
+                    int personID;
+                    SqlCommand cmdGetPersonID = new SqlCommand(
+                        "SELECT PersonID FROM Doctors WHERE DoctorID = @DoctorID", conn, transaction);
+                    cmdGetPersonID.Parameters.AddWithValue("@DoctorID", DoctorID);
+
+                    object result = cmdGetPersonID.ExecuteScalar();
+                    if (result == null)
+                        throw new Exception("Patient not found");
+
+                    personID = Convert.ToInt32(result);
+
+                    // Step 2: Update the Persons table
+                    SqlCommand cmdUpdatePerson = new SqlCommand(
+                        @"UPDATE Persons 
+                  SET Name = @Name, DateOfBirth = @DOB, Gender = @Gender,
+                      PhoneNumber = @PhoneNumber, Email = @Email, Address = @Address
+                  WHERE PersonID = @PersonID", conn, transaction);
+
+                    cmdUpdatePerson.Parameters.AddWithValue("@Name", Name);
+                    cmdUpdatePerson.Parameters.AddWithValue("@DOB", DOB);
+                    cmdUpdatePerson.Parameters.AddWithValue("@Gender", Gender);
+                    cmdUpdatePerson.Parameters.AddWithValue("@PhoneNumber", PhoneNumber);
+                    cmdUpdatePerson.Parameters.AddWithValue("@Email", Email);
+                    cmdUpdatePerson.Parameters.AddWithValue("@Address", Address);
+                    cmdUpdatePerson.Parameters.AddWithValue("@PersonID", personID);
+
+                    cmdUpdatePerson.ExecuteNonQuery();
+
+                    // (Optional) Step 3: Update something in Patients if needed
+                    // e.g., update LastVisitDate or status
+                    /*
+                    SqlCommand cmdUpdatePatient = new SqlCommand(
+                        "UPDATE Patients SET LastVisitDate = GETDATE() WHERE PatientID = @PatientID", conn, transaction);
+                    cmdUpdatePatient.Parameters.AddWithValue("@PatientID", patientID);
+                    cmdUpdatePatient.ExecuteNonQuery();
+                    */
+
+                    transaction.Commit();
+                    return true;
+                }
+                catch
+                {
+                    transaction.Rollback();
+                    return false;
+                }
+            }
+        }
+
+
 
     }
 }

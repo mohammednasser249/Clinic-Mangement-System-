@@ -23,11 +23,13 @@ namespace PresentationLayerWindeowsForm
         enMode _Mode;
 
         clsDoctrosBL Doctor;
+
+        int DID = 0;
         public frmAddNewDoctor(int DoctorID)
         {
             InitializeComponent();
-
-            if (DoctorID == -1)
+            DID = DoctorID;
+            if (DID == -1)
             {
                 _Mode = enMode.AddNew;
             }else
@@ -57,7 +59,22 @@ namespace PresentationLayerWindeowsForm
               return;
             }
 
+            Doctor = clsDoctrosBL.Find(DID);
 
+            if (Doctor == null)
+            {
+                MessageBox.Show("This form will be closed because No Doctor with this ID");
+                this.Close();
+                return;
+            }
+
+            txtName.Text = Doctor.Name;
+            txtAddress.Text = Doctor.Address;
+            guna2ComboBox1.SelectedItem = Doctor.Gender;
+            DPDateOfBirth.Value = Doctor.DateOfBirth;
+            txtPhoneNumber.Text = Doctor.PhoneNumber;
+            txtSpecilization.Text = Doctor.Specilization;
+            txtEmail.Text = Doctor.Email;
         }
 
         private void guna2Button1_Click(object sender, EventArgs e)
@@ -73,6 +90,7 @@ namespace PresentationLayerWindeowsForm
             if(Doctor.Save())
             {
                 MessageBox.Show("New Doctor has been saved succssfully");
+                
             }
             else
             {
