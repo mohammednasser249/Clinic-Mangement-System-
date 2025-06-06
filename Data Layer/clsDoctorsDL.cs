@@ -344,7 +344,41 @@ namespace Data_Layer
             }
         }
 
+        public static bool Delete(int ID)
+        {
 
+            SqlConnection conn = new SqlConnection(clsDataBaseSetting.connectionString);
+
+            string qurey = @"delete from Doctors Where DoctorID =@ID";
+
+            SqlCommand cmd = new SqlCommand(qurey, conn);
+
+            cmd.Parameters.AddWithValue("@ID", ID);
+
+            bool isdeleted = false;
+            try
+            {
+                conn.Open();
+                int rowsaffected = cmd.ExecuteNonQuery();
+
+                if (rowsaffected > 0)
+                {
+                    isdeleted = true;
+                }
+            }
+            catch (Exception ex)
+            {
+                {
+                    Console.WriteLine(ex.ToString());
+                }
+            }
+            finally
+            {
+                conn.Close();
+            }
+
+            return isdeleted;
+        }
 
     }
 }

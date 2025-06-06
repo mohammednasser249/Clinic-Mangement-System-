@@ -54,6 +54,13 @@ namespace BusinessLayer
         }
 
 
+        public static bool DeleteBL(int ID)
+        {
+           if( clsDoctorsDL.Delete(ID))
+                return true;
+           else
+                return false;
+        }
         private bool _UpdateDoctor()
         {
             if (clsDoctorsDL.UpdateDoctorDL(this.DocID,this.Name, this.DateOfBirth, this.Gender, this.PhoneNumber, this.Email, this.Address))

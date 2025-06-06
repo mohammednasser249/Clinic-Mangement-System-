@@ -154,5 +154,31 @@ namespace PresentationLayerWindeowsForm.UserControls
             frm.ShowDialog();
             _RefreshAllDoctors();
         }
+
+
+       private void deleteToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            if (MessageBox.Show(
+     "Are you sure you want to delete Doctor [ " + dataGridView4.CurrentRow.Cells[7].Value + " ]?",
+     "Confirm Deletion",
+     MessageBoxButtons.YesNo,
+     MessageBoxIcon.Warning) == DialogResult.Yes)
+            {
+                if (clsDoctrosBL.DeleteBL((int)dataGridView4.CurrentRow.Cells[7].Value))
+                {
+                    MessageBox.Show("Doctor has been deleted Succssfully");
+                    _RefreshAllDoctors();
+                    lbTotalDoctors.Text = "Total:" +clsDoctrosBL.GetAllDoctors().ToString();
+
+                }
+                else
+                {
+                    MessageBox.Show("Doctor has not been deleted ");
+
+                }
+            }
+
+
+        }
     }
 }
