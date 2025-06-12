@@ -3,8 +3,20 @@ A simple Clinical Management System that stores information about patients and d
 
 ## Here Are Images Of the App 
 
+### Login
+![img alt](AppImages/Log in Page.png)
+
 ### Dashboard 
-![img alt](App_Images/AppointmentPage.png)
+![img alt](AppImages/Dashboard.png)
+
+### Paitnets Page
+![img alt](AppImages/PaitentPage.png)
+
+### Doctors Page
+![img alt](AppImages/DoctorsPage.png)
+
+### Appoitnments
+![img alt](AppImages/AppointmentPage.png)
 
 
 
